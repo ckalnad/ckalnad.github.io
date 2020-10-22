@@ -1,0 +1,3 @@
+[1018/140554.955:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1020/173547.752:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1021/220108.456:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ckaln\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\71ee0d6f-1cad-4ebe-a325-363047e7ed84: The system cannot find the path specified. (0x3)
